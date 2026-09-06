@@ -1,5 +1,10 @@
-## Hi there 👋
+## Links
 
+[![Rooted credential — rank 1, Junior Hacker](https://rootedsec.online/verify/SDEUB4LMWZXH/badge.svg)](https://rootedsec.online/h/vinks)
+
+![HackTheBox](https://profile.hackthebox.com/profile/019d5cf4-14eb-706b-a0bf-c55b6e8261b8)
+
+![CyLab Security Academy](https://learn.cylabacademy.org/users/viNFLICT)
 <!--
 **Vin11704/Vin11704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
